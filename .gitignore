@@ -1,0 +1,8 @@
+*.log
+*.sock
+.plugins.lock
+session.json
+session-snapshots/
+plugins/
+release-notes.json
+plugins.json
