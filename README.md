@@ -5,4 +5,4 @@ Personal herdr config: `config.toml` and `scripts/`.
 ## Plugins (reinstall on a new machine)
 
 - cloudmanic/herdr-plus
-- zenbu-labs/terminal-browser
+- zenbu-labs/terminal-browser/herdr-plugin
